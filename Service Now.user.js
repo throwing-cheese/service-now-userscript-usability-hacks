@@ -3,8 +3,8 @@
 // @version     1.0
 // @description Various improvements to Service Now user interface
 // @namespace   https://example.com/
-// @author      Octu
-// @homepage    https://github.com/octu/service-now-userscript-usability-hacks
+// @author      Throwing Cheese
+// @homepage    https://github.com/throwing-cheese/service-now-userscript-usability-hacks
 // @match       https://*.service-now.com/*incident.do*
 // @match       https://*.service-now.com/*incident_task.do*
 // @match       https://*.service-now.com/*change_request.do*
