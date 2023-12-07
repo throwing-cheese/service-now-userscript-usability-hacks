@@ -99,6 +99,11 @@ The `table pages` I refer to are pages listing records in a table format, such a
 	- Request: REQUEST
 10. Apply cell borders to table layout
 11. Highlight current row being hovered over in yellow
+12. Apply background colour to activity panels
+	- Customer notes and Additional comments: #cce6ff
+	- Image uploaded: #ffffcc
+	- Work notes: #ffe6cc
+	- Attachment uploaded: #ccffe6
 
 ### Individual Record Pages
 
